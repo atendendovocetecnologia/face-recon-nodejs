@@ -1,0 +1,23 @@
+{
+  "name": "face-nodejs",
+  "version": "1.0.0",
+  "description": "Demonstração para realizar reconhecimento de imagem via API e Node JS",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node src/face-detection.js"
+  },
+  "keywords": [
+    "nodejs",
+    "cognitive-services",
+    "azure",
+    "face-api",
+    "javascript"
+  ],
+  "author": "Marcio Gomes",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {}
+}
